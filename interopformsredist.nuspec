@@ -9,8 +9,8 @@
     <authors>Microsoft</authors>
     <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-syspro/master/icons/icons/syspro.png</iconUrl>
     <copyright>Copyright © 1994-2012</copyright>
-    <licenseUrl></licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <!--<licenseUrl></licenseUrl>-->
     <!--<projectSourceUrl></projectSourceUrl>-->
     <!--<docsUrl></docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
