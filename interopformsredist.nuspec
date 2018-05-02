@@ -12,9 +12,10 @@
     <licenseUrl></licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <!--<projectSourceUrl></projectSourceUrl>-->
-    <docsUrl></docsUrl>
+    <!--<docsUrl></docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
+    <!--<releaseNotes></releaseNotes>-->
     <tags>Microsoft InteropForms Toolkit</tags>
     <summary>Allows developers to incorporate VB.NET WinForms into their VB6 applications.</summary>
     <description>
@@ -24,7 +25,6 @@
       phased upgrade, with production releases at the end of each iteration containing both VB6 and 
       VB.NET forms running in the same VB6 .exe process. 
     </description>
-    <releaseNotes></releaseNotes>
 
     <!-- Specifying dependencies and version ranges? 
          https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
