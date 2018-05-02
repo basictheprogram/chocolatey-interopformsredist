@@ -7,10 +7,10 @@
     <owners>Real Time Support</owners>
     <title>Microsoft InteropForms Toolkit</title>
     <authors>Microsoft</authors>
-    <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-syspro/master/icons/icons/syspro.png</iconUrl>
+    <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/icons/icons/syspro.png</iconUrl>
     <copyright>Copyright © 1994-2012</copyright>
-    <!--<requireLicenseAcceptance>true</requireLicenseAcceptance>-->
-    <!--<licenseUrl></licenseUrl>-->
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/LICENSE.txt</licenseUrl>
     <!--<projectSourceUrl></projectSourceUrl>-->
     <!--<docsUrl></docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
