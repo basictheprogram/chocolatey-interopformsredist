@@ -11,11 +11,11 @@
     <copyright>Copyright © 1994-2012</copyright>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <licenseUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/LICENSE.txt</licenseUrl>
-    <!--<projectSourceUrl></projectSourceUrl>-->
-    <!--<docsUrl></docsUrl>-->
-    <!--<mailingListUrl></mailingListUrl>-->
-    <!--<bugTrackerUrl></bugTrackerUrl>-->
-    <!--<releaseNotes></releaseNotes>-->
+    <projectSourceUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</projectSourceUrl>
+    <docsUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</docsUrl>
+    <mailingListUrl>https://social.msdn.microsoft.com/Forums/en-US/home</mailingListUrl>
+    <bugTrackerUrl>https://social.msdn.microsoft.com/Forums/en-US/home</bugTrackerUrl>
+    <releaseNotes>https://www.microsoft.com/en-us/download/details.aspx?id=3264</releaseNotes>-->
     <tags>Microsoft InteropForms Toolkit</tags>
     <summary>Allows developers to incorporate VB.NET WinForms into their VB6 applications.</summary>
     <description>
