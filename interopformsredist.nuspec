@@ -8,7 +8,7 @@
     <title>Microsoft InteropForms Toolkit</title>
     <authors>Microsoft</authors>
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/icons/icons/interopformsredist.png</iconUrl>
+    <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/icons/interopformsredist.png</iconUrl>
     <copyright>Copyright © 1994-2012</copyright>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <licenseUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/LICENSE.txt</licenseUrl>
