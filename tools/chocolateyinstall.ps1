@@ -20,7 +20,6 @@ $packageArgs = @{
   # Cygwin $env:TEMP is C:\tools\cygwin\tmp\chocolatey
   # Powershell $env:TEMP is C:\Users\tanner\AppData\Local\Temp
   #
-  # msiexec /i "\\server\Deploy\SYSPRO\ISSetupPrerequisites\ {58E08727-9947-4FC4-BA00-9C3B80A5DAF6}\microsoft.interopformsredist.msi" /qb
   #
   silentArgs     = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).log`""
   validExitCodes= @(0, 3010, 1641)
