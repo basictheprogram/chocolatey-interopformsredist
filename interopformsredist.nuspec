@@ -27,12 +27,11 @@
       phased upgrade, with production releases at the end of each iteration containing both VB6 and 
       VB.NET forms running in the same VB6 .exe process. 
     </description>
-
     <!-- Specifying dependencies and version ranges? 
          https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <dependencies>
      <!-- .NET Framework 3.5 -->
-      <dependency id="dotnet3.5" />    
+    <dependency id="dotnet3.5" />    
     </dependencies>
   </metadata>
   <files>
