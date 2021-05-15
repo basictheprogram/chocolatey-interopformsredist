@@ -8,11 +8,10 @@
     <title>Microsoft InteropForms Toolkit</title>
     <authors>Microsoft</authors>
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/icons/interopformsredist.png</iconUrl>
+    <iconUrl>https://basictheprogram.github.io/chocolatey-interopformsredist/icons/interopformsredist.png</iconUrl>
     <copyright>Copyright © 1994-2012</copyright>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <licenseUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-interopformsredist/master/LICENSE.txt</licenseUrl>
-    <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</projectUrl>
+    <licenseUrl>https://basictheprogram.github.io/chocolatey-interopformsredist/LICENSE.txt</licenseUrl>
     <projectSourceUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</projectSourceUrl>
     <docsUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</docsUrl>
     <mailingListUrl>https://social.msdn.microsoft.com/Forums/en-US/home</mailingListUrl>
@@ -21,17 +20,17 @@
     <tags>Microsoft InteropForms Toolkit</tags>
     <summary>Allows developers to incorporate VB.NET WinForms into their VB6 applications.</summary>
     <description>
-      This toolkit helps you bring the power of .NET to your existing VB6 applications, by allowing 
-      them to display .NET Forms and Controls from within the same application. Instead of upgrading 
-      the entire code base, these applications can now be extended one form at a time. The goal is a 
-      phased upgrade, with production releases at the end of each iteration containing both VB6 and 
-      VB.NET forms running in the same VB6 .exe process. 
+      This toolkit helps you bring the power of .NET to your existing VB6 applications, by allowing
+      them to display .NET Forms and Controls from within the same application. Instead of upgrading
+      the entire code base, these applications can now be extended one form at a time. The goal is a
+      phased upgrade, with production releases at the end of each iteration containing both VB6 and
+      VB.NET forms running in the same VB6 .exe process.
     </description>
-    <!-- Specifying dependencies and version ranges? 
+    <!-- Specifying dependencies and version ranges?
          https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <dependencies>
      <!-- .NET Framework 3.5 -->
-    <dependency id="dotnet3.5" />    
+    <dependency id="dotnet3.5" />
     </dependencies>
   </metadata>
   <files>
