@@ -1,3 +1,4 @@
 *.exe
 *.nupkg
 *.msi
+data.ps1
